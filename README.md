@@ -12,7 +12,7 @@ The goal of this project is to create a **static digital business card** using *
 - **QR Code Integration** – A **QR code** is generated for easy scanning and sharing.  
 
 ## **Technologies Used**
-- 🔹 **HTML** – For structuring the content of the business card.  
-- 🔹 **CSS** – For styling and improving the visual appeal.  
-- 🔹 **Netlify** – For deploying the business card and making it live.  
-- 🔹 **QR Code** – For providing quick access by scanning with mobile devices.
+- **HTML** – For structuring the content of the business card.  
+- **CSS** – For styling and improving the visual appeal.  
+- **Netlify** – For deploying the business card and making it live.  
+- **QR Code** – For providing quick access by scanning with mobile devices.
